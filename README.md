@@ -2,7 +2,7 @@
 
 Simple spring boot project for Apache JackRabbit.
 
-This project was generated with Spring Boot version 2.1.1.RELEASE.
+This project was generated with Spring Boot version 2.1.1.RELEASE and JRC api version 2.0 with Jackrabbit version 2.18.0.
 
 ## Development server
 
