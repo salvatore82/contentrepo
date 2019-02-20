@@ -20,4 +20,4 @@ No unit test implemented.
 
 ## Executing project
 
-You can use swagger to test it at http://<<server>>:<<port>>/swagger-ui.html
+You can use swagger to test it at http://server:port/swagger-ui.html
